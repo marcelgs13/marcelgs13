@@ -9,7 +9,7 @@
 <h2 align="center">Olá seja bem vindo! <img height="35" alt="Goku" src="https://media1.tenor.com/m/2HQKrBsGYJUAAAAC/son-goku.gif"/></h2>
 
 
-Me chamo Marcel Gustavo tenho 20 anos atualmente estou cursando engenharia da computação na UFRPE-UABJ e no momento estudo e desenvolvo em Python, JS e Java;
+Me chamo Marcel Gustavo tenho 21 anos atualmente estou cursando engenharia de Software no IFPE-Belo Jardim e no momento estudo e desenvolvo em Python, JS e Java;
 
 
 
